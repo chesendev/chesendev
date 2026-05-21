@@ -1,51 +1,121 @@
-<h1 align="center">Hi, I'm Mehdi 👋</h1>
+<!-- ─── Animated Header ─── -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Mehdi%20Osmano%C4%9Flu&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%C2%B7%20T%C3%BCrkiye%20%E2%86%92%20Texas&descSize=18&descAlignY=60" />
+</div>
 
-<p align="center">
-  Software Engineering Student • Dual Degree: <b>Fırat University × Sam Houston State University (TX)</b><br/>
-  Building with <b>C#/.NET</b>, <b>Java</b>, and <b>Move (Sui)</b>
-</p>
+<!-- ─── Typing Subtitle ─── -->
+<div align="center">
+  <a href="https://github.com/chesendev">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+with+C%23+%2F+.NET;Designing+with+Photoshop+%26+After+Effects;Dual+Degree+%E2%80%94+F%C4%B1rat+University+%C3%97+SHSU" />
+  </a>
+</div>
 
-<p align="center">
-  <a href="https://chesen.io"><img src="https://img.shields.io/badge/Portfolio-chesen.io-0A0A0A?style=for-the-badge&logo=safari&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mehdiosmanoglu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/chesendev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
+<br/>
 
----
+## ▸ About
 
-### 🎯 Current Focus
+<table>
+<tr>
+<td valign="top" width="58%">
 
-- 🟦 **28-Day C# Challenge** — Daily exercises on Generics, Reflection, Multithreading, LINQ internals → [`csharp-learning`](https://github.com/chesendev/csharp-learning)
-- 🌎 Preparing to transfer to **Sam Houston State University (Texas)** for years 3–4
+```ts
+const mehdi = {
+  role: "Software Engineering Student",
+  location: "Türkiye → Texas",
+  education: {
+    current: "Fırat University",
+    transferring: "Sam Houston State University"
+  },
+  stack: ["C#", ".NET", "Java", "Python", "C++"],
+  creative: ["Photoshop", "Premiere Pro", "After Effects"],
+  learning: "C# internals — Generics, Reflection, LINQ",
+  openTo: ["Internships", "OSS collaboration"]
+};
+```
 
-### 🛠️ Stack
+</td>
+<td valign="top" width="42%">
 
-**Languages**  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Move](https://img.shields.io/badge/Move-4A90E2?style=flat&logo=sui&logoColor=white)
+#### Now
 
-**Tools & Creative**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
+`28-day C# Challenge`  
+Daily commits on Generics, Reflection, Multithreading, and LINQ internals.
 
-### 📌 Featured Work
+#### Goal
 
-| Project | Description | Stack |
-|---|---|---|
-| [`csharp-learning`](https://github.com/chesendev/csharp-learning) | 28-day C# deep-dive — daily commits | C#, .NET |
-### 📈 Stats
+Transferring to **SHSU** for years 3–4.  
+Targeting SWE roles in the U.S. tech market.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chesendev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chesendev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-<p align="center"><i>Open to internships and open-source collaboration — especially in .NET backend, Sui/Move, or developer tooling.</i></p>
+## ▸ Stack
+
+<div align="center">
+  
+![Skills](https://skillicons.dev/icons?i=cs,dotnet,java,python,cpp,git,github,vscode,visualstudio,ps,ae,pr&theme=dark&perline=12)
+
+</div>
+
+<br/>
+
+## ▸ Activity
+
+<div align="center">
+  
+![Stats](https://github-readme-stats.vercel.app/api?username=chesendev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&card_width=420)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chesendev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&card_width=300)
+
+</div>
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chesendev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true)
+
+</div>
+
+<br/>
+
+## ▸ Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [`csharp-learning`](https://github.com/chesendev/csharp-learning)
+
+28-day deep-dive into C# language internals — daily commits.
+
+`C#` · `.NET`
+
+</td>
+<td width="50%" valign="top">
+
+#### More soon
+
+Additional repos as new challenges complete.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─── Footer ─── -->
+<div align="center">
+  
+### ▸ Connect
+
+<a href="https://linkedin.com/in/mehdiosmanoglu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/chesendev"><img src="https://img.shields.io/badge/@chesendev-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+
+<br/><br/>
+
+<sub><i>Open to internships and open-source collaboration.</i></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+
+</div>
