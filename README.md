@@ -62,18 +62,12 @@ Targeting SWE roles in the U.S. tech market.
 
 <br/>
 
-## ▸ Activity
+## ▸ Stats
 
 <div align="center">
   
-![Stats](https://github-readme-stats.vercel.app/api?username=chesendev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&card_width=420)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chesendev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&card_width=300)
-
-</div>
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chesendev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=chesendev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chesendev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 </div>
 
