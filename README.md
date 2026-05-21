@@ -1,6 +1,6 @@
 <!-- ─── Animated Header ─── -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Mehdi%20Osmano%C4%9Flu&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%C2%B7%20T%C3%BCrkiye%20%E2%86%92%20Texas&descSize=18&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Mehdi%20Osmano%C4%9Flu&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%C2%B7%20T%C3%BCrkiye%20%E2%86%92%20United States&descSize=18&descAlignY=60" />
 </div>
 
 <!-- ─── Typing Subtitle ─── -->
