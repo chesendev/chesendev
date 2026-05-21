@@ -6,7 +6,7 @@
 <!-- ─── Typing Subtitle ─── -->
 <div align="center">
   <a href="https://github.com/chesendev">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+with+C%23+%2F+.NET;Designing+with+Photoshop+%26+After+Effects;Dual+Degree+%E2%80%94+F%C4%B1rat+University+%C3%97+SHSU" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+with+C%23+%2F+.NET;28-day+C%23+Challenge+in+progress;Dual+Degree+%E2%80%94+F%C4%B1rat+University+%C3%97+SHSU" />
   </a>
 </div>
 
@@ -14,41 +14,16 @@
 
 ## ▸ About
 
-<table>
-<tr>
-<td valign="top" width="58%">
+<div align="center">
+  <img src="about.png" alt="About Mehdi" width="80%" />
+</div>
 
-```ts
-const mehdi = {
-  role: "Software Engineering Student",
-  location: "Türkiye → Texas",
-  education: {
-    current: "Fırat University",
-    transferring: "Sam Houston State University"
-  },
-  stack: ["C#", ".NET", "Java", "Python", "C++"],
-  creative: ["Photoshop", "Premiere Pro", "After Effects"],
-  learning: "C# internals — Generics, Reflection, LINQ",
-  openTo: ["Internships", "OSS collaboration"]
-};
-```
+<br/>
 
-</td>
-<td valign="top" width="42%">
-
-#### Now
-
-`28-day C# Challenge`  
+**Now** — `28-day C# Challenge`  
 Daily commits on Generics, Reflection, Multithreading, and LINQ internals.
 
-#### Goal
-
-Transferring to **SHSU** for years 3–4.  
-Targeting SWE roles in the U.S. tech market.
-
-</td>
-</tr>
-</table>
+**Goal** — Transferring to **SHSU** for years 3–4. Targeting SWE roles in the U.S. tech market.
 
 <br/>
 
@@ -56,18 +31,7 @@ Targeting SWE roles in the U.S. tech market.
 
 <div align="center">
   
-![Skills](https://skillicons.dev/icons?i=cs,dotnet,java,python,cpp,git,github,vscode,visualstudio,ps,ae,pr&theme=dark&perline=12)
-
-</div>
-
-<br/>
-
-## ▸ Stats
-
-<div align="center">
-  
-![Stats](https://github-readme-stats.vercel.app/api?username=chesendev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chesendev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![Skills](https://skillicons.dev/icons?i=cs,dotnet,java,python,cpp,git,github,vscode,visualstudio&theme=dark&perline=9)
 
 </div>
 
@@ -75,26 +39,9 @@ Targeting SWE roles in the U.S. tech market.
 
 ## ▸ Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 #### [`csharp-learning`](https://github.com/chesendev/csharp-learning)
-
-28-day deep-dive into C# language internals — daily commits.
-
+28-day deep-dive into C# language internals — daily commits.  
 `C#` · `.NET`
-
-</td>
-<td width="50%" valign="top">
-
-#### More soon
-
-Additional repos as new challenges complete.
-
-</td>
-</tr>
-</table>
 
 <br/>
 
