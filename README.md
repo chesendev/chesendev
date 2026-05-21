@@ -16,7 +16,6 @@
 ### 🎯 Current Focus
 
 - 🟦 **28-Day C# Challenge** — Daily exercises on Generics, Reflection, Multithreading, LINQ internals → [`csharp-learning`](https://github.com/chesendev/csharp-learning)
-- 🟪 **21-Day Sui Move Challenge** — On-chain modules + the Move resource model → [`sui-move-challenge`](https://github.com/chesendev/sui-move-challenge)
 - 🌎 Preparing to transfer to **Sam Houston State University (Texas)** for years 3–4
 
 ### 🛠️ Stack
@@ -40,9 +39,6 @@
 | Project | Description | Stack |
 |---|---|---|
 | [`csharp-learning`](https://github.com/chesendev/csharp-learning) | 28-day C# deep-dive — daily commits | C#, .NET |
-| [`sui-move-challenge`](https://github.com/chesendev/sui-move-challenge) | 21-day on-chain Move exercises | Move, Sui |
-| [`amazon-purchase-bot`](https://github.com/chesendev/amazon-purchase-bot) | Hardware purchasing automation with retry logic | .NET, Playwright |
-
 ### 📈 Stats
 
 <p align="center">
