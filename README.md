@@ -23,7 +23,7 @@
 **Now** — `28-day C# Challenge`  
 Daily commits on Generics, Reflection, Multithreading, and LINQ internals.
 
-**Goal** — Transferring to **SHSU** for years 3–4. Targeting SWE roles in the U.S. tech market.
+**Goal** — Transferring to **SHSU** for years 3–4.
 
 <br/>
 
